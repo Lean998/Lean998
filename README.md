@@ -80,7 +80,6 @@ I'm always looking to expand my knowledge and explore new tools and technologies
   <tr border="none">
     <td width="50%" align="center">
       <img  src="https://github-readme-stats.vercel.app/api?username=Lean998&theme=dark&show_icons=true&count_private=true" />
-      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lean998&theme=dark&hide_border=false" /> 
     </td>
   </tr>
 </table>
